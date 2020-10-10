@@ -25,8 +25,6 @@
 
 - create scc folder in app-theme folder
 
-- Write development strategy
-
 - create images folder
 
 - move downloaded files  and images to the created folders
