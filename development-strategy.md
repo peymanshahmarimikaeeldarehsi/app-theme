@@ -45,8 +45,6 @@
 - create a localy branch for "services"
 - create a localy branch for "about"
 - create a localy branch for "contact us"
-- create a localy branch for "style"
-- create a localy branch for "images and fonts and ..."
 
 ## step 4 : edit files and push branches  to git hub
 
